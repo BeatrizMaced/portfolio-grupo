@@ -142,7 +142,7 @@
          border-radius: 20px;
          position: absolute;
          left: 20%;
-         bottom: 30%;
+         bottom: 50%;
       }
     
        .img_1{
@@ -266,7 +266,7 @@
      color: var(--secondary-color);
      font-size: 20px;
      text-align: center;
-     left: 25%;
+     left: 24%;
      position: absolute;
      bottom: 75%;
     }
@@ -286,7 +286,7 @@
      color: var(--secondary-color);
      font-size: 20px;
      text-align: center;
-     left: 10%;
+     left: 5%;
      position: absolute;
      bottom: 17%;
      
@@ -296,7 +296,7 @@
      color: var(--secondary-color);
      font-size: 20px;
      text-align: center;
-     left: 22%;
+     left: 35%;
      position:absolute;
      bottom: 75%;
      
@@ -317,7 +317,7 @@
      color: var(--secondary-color);
      font-size: 20px;
      text-align: center;
-     left: 32%;
+     left: 30%;
      position:absolute;
      bottom: 17%;
     
@@ -328,7 +328,7 @@
      font-size: 18px;
      color: var(--secondary-color);
      position: absolute;
-     bottom: 70%;
+     bottom: 68%;
      left: 5%;
     }
     
@@ -337,7 +337,7 @@
      font-size: 18px;
      color: var(--secondary-color);
      position: absolute;
-     bottom: 42%;
+     bottom: 40%;
      left: 5%;
     }
     
@@ -346,8 +346,8 @@
      font-size: 18px;
      color: var(--secondary-color);
      position: absolute;
-     bottom: 12%;
-     left: 5%;
+     bottom: 8%;
+     left: 2%;
     }
     
     
@@ -356,7 +356,7 @@
      font-size: 18px;
      color: var(--secondary-color);
      position: absolute;
-     bottom: 70%;
+     bottom: 68%;
      left: 2%;
     }
     
@@ -365,8 +365,8 @@
      font-size: 18px;
      color: var(--secondary-color);
      position: absolute;
-     bottom: 40%;
-     left: 5%;
+     bottom: 36%;
+     left: 3%;
     }
     
     .container2_text3{
@@ -374,7 +374,7 @@
      font-size: 18px;
      color: var(--secondary-color);
      position: absolute;
-     bottom: 12%;
+     bottom: 6%;
      left: 2%;
     }
     
@@ -477,3 +477,7 @@
         padding: 10px 0;
         text-align: center;
       }
+
+    
+  
+     
